@@ -21,7 +21,7 @@ Although intentionally minimal, it provides an opportunity to understand how Flu
 
 * Framework: Flutter
 * Language: Dart
-* IDE: [Add your IDE, such as Android Studio or VS Code]
+* IDE: Android Studio 
 
 📚 Key Learnings
 
